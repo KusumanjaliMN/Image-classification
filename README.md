@@ -1,5 +1,6 @@
 # Image-classification
 CIFAR-10 Image Classification with CNN
+
 Overview:  
 This project implements a Convolutional Neural Network (CNN) to classify images in the CIFAR-10 dataset into 10 categories.  
 The model is trained using TensorFlow and Keras, and achieves a test accuracy of approximately 69.60%.  
